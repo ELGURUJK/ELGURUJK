@@ -1,4 +1,4 @@
-
+![Banner de ElGuruJk](./Banner7.png)
 # 👋 ¡Hola! Soy Juank – @ElGuruJk
 
 💡 Creador técnico, desarrollador autodidacta y amante de los proyectos DIY.  
