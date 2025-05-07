@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**ELGURUJK/ELGURUJK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy Juank – @ElGuruJk
 
-Here are some ideas to get you started:
+💡 Creador técnico, desarrollador autodidacta y amante de los proyectos DIY.  
+🔧 Automatizo, optimizo y enseño tecnología útil con un enfoque humano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 ¿Qué hago?
+
+- Desarrollo herramientas y scripts para optimizar sistemas
+- Automatizo procesos usando hardware como ESP32 y Raspberry Pi
+- Comparto proyectos educativos para makers y autodidactas
+- Estoy aprendiendo IA para integrarla en soluciones reales
+
+---
+
+## 📦 Proyectos destacados
+
+- [TunningWinPro GUI](https://github.com/ElGuruJk/TunningWinPro_GUI): Herramienta para optimización de Windows
+- [Curso Maker Domótica Básica](#): En desarrollo, 100% práctico
+- [Explorador de Caracteres Unicode](#): Visualizador de símbolos para desarrolladores
+
+---
+
+## 📚 Estoy aprendiendo
+
+`C#` `Python` `MVVM` `ESP32` `Power BI` `GitHub Actions` `IA aplicada`
+
+---
+
+## 🤝 Colaboremos
+
+¿Tienes una idea o proyecto en mente? ¿Te gustaría aprender juntos?  
+📩 Contáctame vía [LinkedIn](https://linkedin.com/in/elgurujk) o sígueme en YouTube.
+
+> **Hazlo tú mismo, pero no solo.**
