@@ -1,3 +1,5 @@
+# ¡Bienvenido a ElGuruJk!
+Welcome to ElGuruJk! | Bem-vindo ao ElGuruJk! | Bonvenon al ElGuruJk!
 ![Banner de ElGuruJk](./Assets/Banner.png)
 # 👋 ¡Hola! Soy Juank – @ElGuruJk
 
